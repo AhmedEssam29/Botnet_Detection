@@ -52,7 +52,9 @@ This is a comparison of the six models we implemented, and given the size of our
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture11.jpg?raw=true)
 
 - The learning curve for loss and accuracy:
+
 Accuracy curve:
+
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture12.png?raw=true)
 
 Loss curve:  
