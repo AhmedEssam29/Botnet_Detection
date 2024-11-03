@@ -66,31 +66,37 @@ Loss curve:
 
 
 ## Detect Mirai Attack:
-Data distribution and feature selection for Mirai Attacks 
+Data distribution and feature selection for Mirai Attacks
+ 
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture16.png?raw=true)
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture17.png?raw=true)
 
 
 The learning curve for loss and accuracy for Mirai Attacks  
+
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture18.png?raw=true)
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture19.png?raw=true)
 
 
 The confusion matrices of Neural network on validation and test set for Mirai Attacks
+
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture20.png?raw=true)
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture21.png?raw=true)
 
 ## Detect GAFGYT Attack
-Data distribution and feature selection for GAFGYT Attacks 
+Data distribution and feature selection for GAFGYT Attacks
+ 
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture22.png?raw=true)
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture23.png?raw=true)
 
 
-The learning curve for loss and accuracy for GAFGYT Attacks  
+The learning curve for loss and accuracy for GAFGYT Attacks 
+ 
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture24.png?raw=true)
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture25.png?raw=true)
 
 The confusion matrices of Neural network on validation and test set for GAFGYT Attacks
+
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture26.png?raw=true)
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture27.png?raw=true)
 
