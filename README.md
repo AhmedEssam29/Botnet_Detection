@@ -19,8 +19,11 @@ Botnet detection is an important element of any organization’s cybersecurity p
 ## EDA
 1. Data Distribution:
 - Class Distribution shows data Unbalance:
+
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture1.png?raw=true)
+
 - Class Distribution after undersampling:
+
 ![alt text](https://github.com/AhmedEssam29/Botnet_Detection/blob/main/imp/Picture2.png?raw=true)
 
 2. Feature Distribution:
